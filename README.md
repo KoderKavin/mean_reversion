@@ -1,6 +1,6 @@
 # Statistical Arbitrage via Continuous-Time Ornstein–Uhlenbeck Modeling
 
-**Production-grade quantitative research framework for pairs trading on cointegrated equities, featuring exact Gaussian Maximum Likelihood calibration, discretization bias analysis, and out-of-sample execution under realistic market frictions.**
+**Quantitative research framework for pairs trading on cointegrated equities, featuring exact Gaussian Maximum Likelihood calibration, discretization bias analysis, and out-of-sample execution under realistic market frictions.**
 
 ---
 
